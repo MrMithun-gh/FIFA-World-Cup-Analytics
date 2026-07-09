@@ -1,0 +1,11 @@
+year,round,home_team,away_team,home_score,away_score,result,home_rank,away_rank,rank_gap
+1938,Round of 16,Cuba,Romania,2,1,home_win,167,53,114
+1966,Group stage,Korea DPR,Italy,1,0,home_win,112,6,106
+1994,Group stage,Argentina,Bulgaria,0,2,away_win,3,72,69
+2010,Group stage,France,South Africa,1,2,away_win,4,67,63
+1994,Quarter-finals,Bulgaria,Germany,2,1,home_win,72,11,61
+1982,First group stage,Northern Ireland,Spain,1,0,home_win,59,7,52
+1994,Round of 16,Romania,Argentina,3,2,home_win,53,3,50
+1994,Group stage,Belgium,Saudi Arabia,0,1,away_win,2,51,49
+2010,Group stage,Slovakia,Italy,3,2,home_win,55,6,49
+1998,Group stage,Romania,England,2,1,home_win,53,5,48

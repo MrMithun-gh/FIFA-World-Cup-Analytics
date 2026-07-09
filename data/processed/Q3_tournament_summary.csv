@@ -1,0 +1,23 @@
+year,host,champion,matches_played,total_goals,avg_goals_per_match,highest_scoring_match,avg_attendance
+2022,Qatar,Argentina,64,172.0,2.69,8,53191.0
+2018,Russia,France,64,169.0,2.64,7,47371.0
+2014,Brazil,Germany,64,171.0,2.67,8,53592.0
+2010,South Africa,Spain,64,145.0,2.27,7,49670.0
+2006,Germany,Italy,64,147.0,2.3,6,52384.0
+2002,"Korea Republic, Japan",Brazil,64,161.0,2.52,8,42271.0
+1998,France,France,64,171.0,2.67,7,45367.0
+1994,United States,Brazil,52,141.0,2.71,7,68991.0
+1990,Italy,West Germany,52,115.0,2.21,6,48389.0
+1986,Mexico,Argentina,52,132.0,2.54,7,46039.0
+1982,Spain,Italy,52,146.0,2.81,11,40572.0
+1978,Argentina,Argentina,38,102.0,2.68,6,40679.0
+1974,Germany,West Germany,38,97.0,2.55,9,49099.0
+1970,Mexico,Brazil,32,95.0,2.97,7,50124.0
+1966,England,England,32,89.0,2.78,8,48848.0
+1962,Chile,Brazil,32,89.0,2.78,8,27912.0
+1958,Sweden,Brazil,35,126.0,3.6,10,23423.0
+1954,Switzerland,Germany,26,140.0,5.38,12,29562.0
+1950,Brazil,Uruguay,22,88.0,4.0,8,47511.0
+1938,France,Italy,18,84.0,4.67,11,20872.0
+1934,Italy,Italy,17,70.0,4.12,8,21353.0
+1930,Uruguay,Uruguay,18,70.0,3.89,9,32808.0
