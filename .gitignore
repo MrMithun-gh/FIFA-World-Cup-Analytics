@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.env
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Model files (large binaries)
+models/*.pkl
+
+# Raw data (often large/sensitive)
+data/raw/
+
+# Processed outputs (regeneratable)
+data/processed/*.png
+data/processed/*.csv
+
+# Power BI / Excel
+dashboards/*.pbix
+dashboards/*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
